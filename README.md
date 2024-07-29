@@ -2,7 +2,7 @@
 
 The primary goals of this project are to test the **Rust** programming language and develop a basic web scraper. It goes through [KuantoKusta](https://www.kuantokusta.pt/) website and retrieves the cheapest product for the given search.
 
-*&#42; This project is not longer being maintained &#42;*
+**This project is not longer being maintained**
 
 
 ## Requirements
